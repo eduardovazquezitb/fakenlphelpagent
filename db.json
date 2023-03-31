@@ -1,5 +1,5 @@
 {
- "webhooks/rest/webhook" :
+ "posts" :
 [
     {
 	"message": "hello",
