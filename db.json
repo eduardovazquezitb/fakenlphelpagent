@@ -18,13 +18,48 @@
     },
     {
 	"id": 2,
+	"message": "car in Chicago from Sep 12 to Sep 16",
+	"response": [{"recipient_id":"default","text":"Checking car availablity\nCity: Chicago\nCity code is CHI\nStart date: Sep 12\nEnd date: Sep 16\nGalileo code for this query is CAL12SEP-16SEPCHI\nCar with specific car vendors can be added (up to 4): \/AM+ET\nIf an air ticket was booked, you can book a car using:\nCAL\nor request low to high availability for intermediate (I) size cars CAL.I\nYou can also modify or update: \nModify pick up and return dates for segment 2: CAM2D\/11DEC\u201318DEC\nModify pick up date for segment 2: CAM2D\/11DEC \nUpdate and redisplay availability for 17MAY pick up:CAU17MAY \nUpdate and redisplay availability for 12DEC return:CAU\u201312DEC"}]
+    },
+    {
+	"id": 3,
 	"message": "car availability in Al Hoceim for 3 weeks from October 14",
 	"response": [{"recipient_id":"default","text":"Checking car availablity\nCity: Al Hoceim\nCity code is AHU\nStart date: October 14\nDuration: 3 weeks\nEnd date: 04NOV\nGalileo code for this query is CAL14OCT-04NOVAHU\nCar with specific car vendors can be added (up to 4): \/GT+RW\nIf an air ticket was booked, you can book a car using:\nCAL\nor request low to high availability for intermediate (I) size cars CAL.I\nYou can also modify or update: \nModify pick up and return dates for segment 2: CAM2D\/11DEC\u201318DEC\nModify pick up date for segment 2: CAM2D\/11DEC \nUpdate and redisplay availability for 17MAY pick up:CAU17MAY \nUpdate and redisplay availability for 12DEC return:CAU\u201312DEC"}]
     },
     {
-	"id": 3,
+	"id": 4,
+	"message": "book a car in Atlantic City for two days from June 29",
+	"response": [{"recipient_id":"default","text":"Checking car availablity\nCity: Atlantic City\nCity code is AIY\nStart date: June 29\nDuration: two days\nEnd date: 01JUL\nGalileo code for this query is CAL29JUN-01JULAIY\nCar with specific car vendors can be added (up to 4): \/ZI+FT\nIf an air ticket was booked, you can book a car using:\nCAL\nor request low to high availability for intermediate (I) size cars CAL.I\nYou can also modify or update: \nModify pick up and return dates for segment 2: CAM2D\/11DEC\u201318DEC\nModify pick up date for segment 2: CAM2D\/11DEC \nUpdate and redisplay availability for 17MAY pick up:CAU17MAY \nUpdate and redisplay availability for 12DEC return:CAU\u201312DEC"}]
+    },
+    {
+	"id": 5,
+	"message": "is there any car in King Salmon for 2 days from Feb 28",
+	"response":[{"recipient_id":"default","text":"Checking car availablity\nCity: King Salmon\nCity code is AKN\nStart date: Feb 28\nDuration: 2 days\nEnd date: 02MAR\nGalileo code for this query is CAL28FEB-02MARAKN\nCar with specific car vendors can be added (up to 4): \/LM+MW\nIf an air ticket was booked, you can book a car using:\nCAL\nor request low to high availability for intermediate (I) size cars CAL.I\nYou can also modify or update: \nModify pick up and return dates for segment 2: CAM2D\/11DEC\u201318DEC\nModify pick up date for segment 2: CAM2D\/11DEC \nUpdate and redisplay availability for 17MAY pick up:CAU17MAY \nUpdate and redisplay availability for 12DEC return:CAU\u201312DEC"}]
+    },
+    {
+	"id": 6,
+	"message": "how to check car availability in Alexander City starting from July 28 for four days",
+	"response": [{"recipient_id":"default","text":"Checking car availablity\nCity: Alexander City\nCity code is ALX\nStart date: July 28\nDuration: four days\nEnd date: 01AUG\nGalileo code for this query is CAL28JUL-01AUGALX\nCar with specific car vendors can be added (up to 4): \/ZT+LM\nIf an air ticket was booked, you can book a car using:\nCAL\nor request low to high availability for intermediate (I) size cars CAL.I\nYou can also modify or update: \nModify pick up and return dates for segment 2: CAM2D\/11DEC\u201318DEC\nModify pick up date for segment 2: CAM2D\/11DEC \nUpdate and redisplay availability for 17MAY pick up:CAU17MAY \nUpdate and redisplay availability for 12DEC return:CAU\u201312DEC"}]
+    },
+    {
+	"id": 7,
 	"message": "book a hotel in Tampa from Aug 12 to Aug 18",
 	"response": [{"recipient_id":"default","text":"Checking hotel availablity\nCity: Tampa\nCity code is TPA\nStart date: Aug 12\nEnd date: Aug 18\nGalileo code for this query is HOA12AUG-18AUGTPA\nCheck hotel complete availability: HOC"}]
+    },
+    {
+	"id": 8,
+	"message": "check hotel in Ailinglapalap Island for three days from Feb 27",
+	"response": [{"recipient_id":"default","text":"Checking hotel availablity\nCity: Ailinglapalap Island\nCity code is AIP\nStart date: Feb 27\nDuration: three days\nDuration code is 3NT\nGalileo code for this query is HOA27FEB-3NTAIP\nCheck hotel complete availability: HOC"}]
+    },
+    {
+	"id": 9,
+	"message": "is there any hotel in  Ciudad del Este for one day starting from June 30",
+	"response": [{"recipient_id":"default","text":"Checking hotel availablity\nCity: Ciudad del Este\nCity code is AGT\nStart date: June 30\nDuration: one day\nDuration code is 1NT\nGalileo code for this query is HOA30JUN-1NTAGT\nCheck hotel complete availability: HOC"}]
+    },
+    {
+	"id": 10,
+	"message": "book a flight from Karpathos to Martinsburg on November 18",
+	"response": [{"recipient_id":"default","text":"Booking a ticket for a flight:\n\tDeparture city:\t\tKarpathos\n\tArrival city:\t\tMartinsburg\n\tTravel_date:\t\tNovember 18"},{"recipient_id":"default","text":"Checking flight availablity from Karpathos to Martinsburg on Nov 18\nGalileo code for this query:\t\tA18NOVAOKAOO"},{"recipient_id":"default","text":"You can also try:\nOrdered by departure time:\t\tAD18NOVAOKAOO\nOrdered by arrival time:\t\tAA18NOVAOKAOO\nOrdered by journey time:\t\tAJ18NOVAOKAOO\nFirst available flight on or after: AF18NOVAOKAOO#\nDirect flights, max. 1 stop: A18NOVAOKAOO.D1\nNon-stop flights only: A18NOVAOKAOO.D0"}]
     }
 ]
 }
