@@ -2,6 +2,7 @@
  "posts" :
 [
     {
+	"id": 1,
 	"message": "hello",
 	"response": [
 		    {
@@ -11,10 +12,12 @@
 		]
     },
     {
+	"id": 2,
 	"message": "book a car in Atlanta for 3 days starting from June 22",
 	"response": [{"recipient_id":"default","text":"Checking car availablity\nCity: Atlanta\nCity code is ATL\nStart date: June 22\nDuration: 3 days\nEnd date: 25JUN\nGalileo code for this query is CAL22JUN-25JUNATL\nCar with specific car vendors can be added (up to 4): \/RO+RO\nIf an air ticket was booked, you can book a car using:\nCAL\nor request low to high availability for intermediate (I) size cars CAL.I\nYou can also modify or update: \nModify pick up and return dates for segment 2: CAM2D\/11DEC\u201318DEC\nModify pick up date for segment 2: CAM2D\/11DEC \nUpdate and redisplay availability for 17MAY pick up:CAU17MAY \nUpdate and redisplay availability for 12DEC return:CAU\u201312DEC"}]
     },
     {
+	"id": 3,
 	"message": "car availability in Al Hoceim for 3 weeks from October 14",
 	"response": [{"recipient_id":"default","text":"Checking car availablity\nCity: Al Hoceim\nCity code is AHU\nStart date: October 14\nDuration: 3 weeks\nEnd date: 04NOV\nGalileo code for this query is CAL14OCT-04NOVAHU\nCar with specific car vendors can be added (up to 4): \/GT+RW\nIf an air ticket was booked, you can book a car using:\nCAL\nor request low to high availability for intermediate (I) size cars CAL.I\nYou can also modify or update: \nModify pick up and return dates for segment 2: CAM2D\/11DEC\u201318DEC\nModify pick up date for segment 2: CAM2D\/11DEC \nUpdate and redisplay availability for 17MAY pick up:CAU17MAY \nUpdate and redisplay availability for 12DEC return:CAU\u201312DEC"}]
     }
