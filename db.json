@@ -20,6 +20,11 @@
 	"id": 2,
 	"message": "car availability in Al Hoceim for 3 weeks from October 14",
 	"response": [{"recipient_id":"default","text":"Checking car availablity\nCity: Al Hoceim\nCity code is AHU\nStart date: October 14\nDuration: 3 weeks\nEnd date: 04NOV\nGalileo code for this query is CAL14OCT-04NOVAHU\nCar with specific car vendors can be added (up to 4): \/GT+RW\nIf an air ticket was booked, you can book a car using:\nCAL\nor request low to high availability for intermediate (I) size cars CAL.I\nYou can also modify or update: \nModify pick up and return dates for segment 2: CAM2D\/11DEC\u201318DEC\nModify pick up date for segment 2: CAM2D\/11DEC \nUpdate and redisplay availability for 17MAY pick up:CAU17MAY \nUpdate and redisplay availability for 12DEC return:CAU\u201312DEC"}]
+    },
+    {
+	"id": 3,
+	"message": "book a hotel in Tampa from Aug 12 to Aug 18",
+	"response": [{"recipient_id":"default","text":"Checking hotel availablity\nCity: Tampa\nCity code is TPA\nStart date: Aug 12\nEnd date: Aug 18\nGalileo code for this query is HOA12AUG-18AUGTPA\nCheck hotel complete availability: HOC"}]
     }
 ]
 }
